@@ -1,0 +1,144 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="329pt" height="562pt" viewBox="0.00 0.00 328.61 562.00">
+<g id="graph0" class="graph" transform="translate(10.170570421789058,516.8011865187659) scale(0.8456059297932943)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-558 324.61,-558 324.61,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusteriPollo">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 300.61,-8 300.61,-8 306.61,-8 312.61,-14 312.61,-20 312.61,-20 312.61,-397 312.61,-397 312.61,-403 306.61,-409 300.61,-409 300.61,-409 20,-409 20,-409 14,-409 8,-403 8,-397 8,-397 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="160.3" y="-392.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">iPollo</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="10.53,-417 10.53,-546 280.83,-546 280.83,-417 10.53,-417" style=""/>
+<text text-anchor="middle" x="145.68" y="-529.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- iPollo.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="iPollo.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="83.53" cy="-358" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-353.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- iPollo._startTokenId -->
+<g id="node2" class="node" pointer-events="visible" data-name="iPollo._startTokenId">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="83.53" cy="-304" rx="65.41" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-299.8" font-family="Times,serif" font-size="14.00" style="">_startTokenId</text>
+</g>
+<!-- iPollo.mint -->
+<g id="node3" class="node" pointer-events="visible" data-name="iPollo.mint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="83.53" cy="-250" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-245.8" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- iPollo._msgSender -->
+<g id="node8" class="node" pointer-events="visible" data-name="iPollo._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="245.83" cy="-250" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="245.83" y="-245.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- iPollo.mint&#45;&gt;iPollo._msgSender -->
+<g id="edge1" class="edge" data-name="iPollo.mint-&gt;iPollo._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M111.36,-244.81C130.23,-243.48 156.32,-243 180.43,-243.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="180.55,-246.87 190.62,-243.57 180.69,-239.87 180.55,-246.87" style=""/>
+</g>
+<!-- iPollo.mint&#45;&gt;iPollo._msgSender -->
+<g id="edge3" class="edge" data-name="iPollo.mint-&gt;iPollo._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M111.36,-255.19C130.23,-256.52 156.32,-257 180.43,-256.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="180.69,-260.13 190.62,-256.43 180.55,-253.13 180.69,-260.13" style=""/>
+</g>
+<!-- iPollo.totalSupply -->
+<g id="node9" class="node" pointer-events="visible" data-name="iPollo.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="245.83" cy="-304" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="245.83" y="-299.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- iPollo.mint&#45;&gt;iPollo.totalSupply -->
+<g id="edge2" class="edge" data-name="iPollo.mint-&gt;iPollo.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M109.22,-258.32C132.58,-266.19 168.26,-278.21 197.16,-287.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="196.08,-291.27 206.67,-291.14 198.31,-284.64 196.08,-291.27" style=""/>
+</g>
+<!-- iPollo._safeMint -->
+<g id="node10" class="node" pointer-events="visible" data-name="iPollo._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="245.83" cy="-196" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="245.83" y="-191.8" font-family="Times,serif" font-size="14.00" style="">_safeMint</text>
+</g>
+<!-- iPollo.mint&#45;&gt;iPollo._safeMint -->
+<g id="edge4" class="edge" data-name="iPollo.mint-&gt;iPollo._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M109.22,-241.68C133.05,-233.65 169.71,-221.31 198.9,-211.47" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="200.13,-214.75 208.49,-208.24 197.9,-208.12 200.13,-214.75" style=""/>
+</g>
+<!-- iPollo.teamClaim -->
+<g id="node4" class="node" pointer-events="visible" data-name="iPollo.teamClaim">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="83.53" cy="-196" rx="53.32" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-191.8" font-family="Times,serif" font-size="14.00" style="">teamClaim</text>
+</g>
+<!-- iPollo.teamClaim&#45;&gt;iPollo._safeMint -->
+<g id="edge5" class="edge" data-name="iPollo.teamClaim-&gt;iPollo._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.93,-189.71C151.16,-189.17 170.62,-189.1 188.37,-189.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="188.5,-193.02 198.6,-189.82 188.71,-186.03 188.5,-193.02" style=""/>
+</g>
+<!-- iPollo.teamClaim&#45;&gt;iPollo._safeMint -->
+<g id="edge6" class="edge" data-name="iPollo.teamClaim-&gt;iPollo._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.93,-202.29C151.16,-202.83 170.62,-202.9 188.37,-202.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="188.71,-205.97 198.6,-202.18 188.5,-198.98 188.71,-205.97" style=""/>
+</g>
+<!-- iPollo.setBaseURI -->
+<g id="node5" class="node" pointer-events="visible" data-name="iPollo.setBaseURI">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="83.53" cy="-142" rx="57.33" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-137.8" font-family="Times,serif" font-size="14.00" style="">setBaseURI</text>
+</g>
+<!-- iPollo._baseURI -->
+<g id="node6" class="node" pointer-events="visible" data-name="iPollo._baseURI">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="83.53" cy="-88" rx="49.81" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-83.8" font-family="Times,serif" font-size="14.00" style="">_baseURI</text>
+</g>
+<!-- iPollo.enableMint -->
+<g id="node7" class="node" pointer-events="visible" data-name="iPollo.enableMint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="83.53" cy="-34" rx="55.03" ry="18" style=""/>
+<text text-anchor="middle" x="83.53" y="-29.8" font-family="Times,serif" font-size="14.00" style="">enableMint</text>
+</g>
+<!-- key -->
+<g id="node11" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="148.53,-513 18.53,-513 18.53,-425 148.53,-425 148.53,-513" style=""/>
+<text text-anchor="start" x="68.16" y="-494.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="64.27" y="-474.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="41.73" y="-454.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="28.13" y="-434.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node12" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="272.83,-513 218.83,-513 218.83,-425 272.83,-425 272.83,-513" style=""/>
+<text text-anchor="start" x="235.83" y="-494.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="235.83" y="-474.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="233.83,-449 233.83,-469 258.83,-469 258.83,-449 233.83,-449" style=""/>
+<text text-anchor="start" x="235.83" y="-454.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="235.83,-431 235.83,-447 256.83,-447 256.83,-431 235.83,-431" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.53,-499C178.46,-499 190.18,-499 222.59,-499" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="222.83,-502.5 232.83,-499 222.83,-495.5 222.83,-502.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M141.53,-479C178.46,-479 190.18,-479 222.59,-479" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="222.83,-482.5 232.83,-479 222.83,-475.5 222.83,-482.5" style=""/>
+</g>
+</g>
+</svg>
